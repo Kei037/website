@@ -368,15 +368,13 @@ a.common-btn {
   background-image: url('../img/section_3/bg_img.png');
 }
 
-
 /*네번째 섹션 영역*/
 #container section:nth-child(4) {
   background-color: #f4f4f4;
   background-image: url('../img/section_4/bg_img.png');
   background-repeat: no-repeat;
-  background-size: auto 100%;
+  background-size: 30% 87%;
   background-position: calc( 50% + 300px ) center;
-  padding: 20px;
 }
 
 /* #container section:nth-child(4) .inner .box .text-box {
@@ -411,6 +409,9 @@ a.common-btn {
 
 #container section:nth-child(5) .inner .box.img {
   background-image: url('../img/section_5/bg_img.png');
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-repeat: no-repeat;
 }
 
 
